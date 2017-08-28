@@ -1,16 +1,21 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+
+// Component
 import { AppComponent } from './app.component';
+import { RandomFaceComponent } from './components/random-face/random-face.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    RandomFaceComponent
   ],
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
