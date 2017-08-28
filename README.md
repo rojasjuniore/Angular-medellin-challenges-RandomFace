@@ -1,5 +1,6 @@
 # Angular medellin - Challenges RandomFace
--> [Challenges](https://github.com/angular-medellin/challenges/blob/master/challenges/1-random-face/readme.md)
+[Challenges](https://github.com/angular-medellin/challenges/blob/master/challenges/1-random-face/readme.md)
+[Demo](https://rojasjuniore.github.io/Angular-medellin-challenges-RandomFace/)
 
 # RandomFace
 
